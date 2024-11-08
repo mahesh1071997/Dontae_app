@@ -1,3 +1,4 @@
+import 'package:donate/ui/home_screen.dart';
 import 'package:flutter/material.dart';
 
 class InstallScreen extends StatelessWidget {
@@ -42,12 +43,19 @@ class InstallScreen extends StatelessWidget {
             alignment: Alignment.bottomLeft,
             child: ElevatedButton(
               onPressed: () {
-                // Define the start button's action
-              },
+               // Navigator.push(context, );
+               Navigator. push<void>(
+                 context,
+                 MaterialPageRoute<void>(
+                   builder: (BuildContext context) => HomeScreen(),
+                 ),
+               );
+               },
               child: Text('Start',style: TextStyle(color: Colors.white,fontWeight: FontWeight.bold,fontSize: 18),),
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.black,
-                padding: EdgeInsets.symmetric(horizontal: 48.0, vertical: 32.0),
+                fixedSize: Size(140, 80),
+                // padding: EdgeInsets.symmetric(horizontal: 48.0, vertical: 32.0),
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.only(
                     topRight: Radius.circular(48.0),
