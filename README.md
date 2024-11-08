@@ -1,6 +1,5 @@
 # 📱 Donated - Mobile Donation Platform
 
-![Donated App Banner](path_to_image.png)
 
 ## About Donated
 **Donated** is a mobile application that simplifies the process of supporting charitable organizations. With this app, users can quickly find, donate, and keep track of various donation campaigns, ensuring their contributions are making a difference. It’s designed to increase transparency and trust between donors and charitable organizations.
@@ -60,7 +59,7 @@ Before you begin, ensure you have the following installed:
 ## 🖼️ Screenshots
 | Welcome Screen | Home Page | Donation Campaign |
 |:--------------:|:---------:|:-----------------:|
-| ![Splash](screenshot/Screenshot_20241108_182532.png) | ![Home](screenshot/Screenshot_20241108_183446.png) | ![Details](screenshot/Screenshot_20241108_183607.png) |
+| ![Splash](screenshot/Screenshot_20241108_183607.png) | ![Home](screenshot/Screenshot_20241108_183534.png) | ![Details](screenshot/Screenshot_20241108_183556.png) |
 
 ## 🤝 Contributing
 We welcome contributions to make **Donated** even better!
