@@ -87,7 +87,7 @@ For questions, feedback, or collaboration opportunities, reach out to:
 
 - **Mahesh Dabhi**
   - [LinkedIn](https://www.linkedin.com/in/maheshdabhi)
-  - [GitHub](https://github.com/yourusername)
+  - [GitHub](https://github.com/mahesh1071997/)
 
 ---
 
